@@ -14,8 +14,8 @@ The game works in 2 modes:
 4 arguments are expected 
 i.e. game_mode input_file.txt human-next/computer-next depth
 	
-eg. python Connect4Game.py interactive input_file.txt human-next 5
-	
+eg. python Connect4Game.py interactive input_file.txt human-next 5 
+
 in the same order as mentioned respectively.
 	
 In case input file does not exist, game starts in default state with blank board.
